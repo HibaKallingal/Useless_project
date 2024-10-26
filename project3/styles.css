@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
+    margin: 0; /* Reset margin */
+    padding: 0; /* Reset padding */
+}
+
+body {
+    font-family: 'Arial', sans-serif; /* Use a clean, modern font */
+    background: linear-gradient(to right, #83a4d4, #b6fbff); /* Gradient background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333; /* Dark text color for readability */
+}
+
+.container {
+    background: white; /* White background for the container */
+    padding: 40px; /* Increased padding */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    width: 90%; /* Responsive width */
+    max-width: 400px; /* Max width for larger screens */
+    text-align: center; /* Center text alignment */
+}
+
+h1 {
+    font-size: 1.8rem; /* Larger font size for the title */
+    margin-bottom: 20px; /* Space below the title */
+    color: #4A90E2; /* Primary color for the title */
+}
+
+textarea {
+    width: 100%; /* Full width */
+    height: 120px; /* Increased height */
+    border: 2px solid #4A90E2; /* Primary color border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding inside the textarea */
+    font-size: 1rem; /* Font size for readability */
+    resize: none; /* Disable resizing */
+    transition: border-color 0.3s; /* Smooth transition for border color */
+}
+
+textarea:focus {
+    outline: none; /* Remove outline on focus */
+    border-color: #2C3E50; /* Darker border on focus */
+}
+
+button {
+    padding: 12px 20px; /* Increased padding */
+    cursor: pointer;
+    background-color: #4A90E2; /* Primary button color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1rem; /* Consistent font size */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+}
+
+button:hover {
+    background-color: #357ABD; /* Darker shade on hover */
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+}
+
+#result {
+    margin-top: 20px; /* Space above result */
+    font-weight: bold; /* Bold result text */
+    padding: 10px; /* Padding around result */
+    border: 1px solid #4A90E2; /* Border around result */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background for result */
+    color: #2C3E50; /* Darker text for result */
+    transition: background-color 0.3s; /* Smooth transition for background */
+}
+
+#result:hover {
+    background-color: #e8f6f8; /* Lighten background on hover */
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5rem; /* Smaller title on mobile */
+    }
+
+    textarea {
+        height: 100px; /* Smaller textarea on mobile */
+    }
+
+    button {
+        padding: 10px 15px; /* Smaller button padding on mobile */
+    }
+}
