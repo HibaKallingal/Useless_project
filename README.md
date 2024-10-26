@@ -52,12 +52,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot (84)](https://github.com/user-attachments/assets/09b6d10e-bd1e-4c6e-be3e-f71c5f90e572)
+Homepage of our web app
 
 ![Screenshot (85)](https://github.com/user-attachments/assets/d7f84cf5-f900-470d-b2fb-4a335c5bca11)
-
+To-Do List
 ![Screenshot (86)](https://github.com/user-attachments/assets/dede99a4-d07c-4b0c-91f5-37486f1261a8)
+Random Excuse Generator
 ![Screenshot (87)](https://github.com/user-attachments/assets/887be520-264d-4108-b8df-b743768e5e80)
+Survival Phrase Translator
 ![Screenshot (89)](https://github.com/user-attachments/assets/fdfbf08a-1d46-4123-8c2d-f5f83461d4f2)
+Automatic Tongue Twister Generator
 
 ### Project Demo
 # Video
