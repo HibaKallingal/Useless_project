@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1hftBlCfNMTBhWqFm1BGaXVls2ZRomPY9/view?usp=drive
 ## Team Contributions
 - Nandhana A P: implemented To-Do list
 - Aparna S: Implemented Random Excuse Generator and Survival Phrase Translator
-- Hiba K: Automatic Tongue twisters
+- Hiba K: Automatic Tongue twisters and Survival Phrase Translator
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
