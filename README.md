@@ -50,7 +50,7 @@ Run the "index.html" file
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot (84)](https://github.com/user-attachments/assets/09b6d10e-bd1e-4c6e-be3e-f71c5f90e572)
 Homepage of our web app
 
